@@ -1,6 +1,8 @@
 # pucminas
 Repositorio do curso de Big Data
 
+Analise de sentimentos do Twitter sendo apliccado os modelos Textblob, LSTM e Naive Bayes
+
 Os arquivos são os seguintes:
 
 - ColetaRFB: Tweets coletados da Receita Federal
